@@ -1,0 +1,9 @@
+package com.kodilla.zadanie47;
+record BookRecord(String author, String titles, int year){}
+
+public class Main {
+    public static void main(String[] args) {
+        BookRecord book = new BookRecord("John Novak", "Algorithms and other nightmares", 2018);
+                System.out.println(book);
+    }
+}
