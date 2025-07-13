@@ -1,4 +1,4 @@
-package com.kodilla.zadanie46;
+package com.kodilla;
 
 class Calculator {
     long FirstNumber;
@@ -19,7 +19,7 @@ class Calculator {
         return null;
     }
 }
-public class Main {
+public class zadanie46 {
     public static void main(String[] args) {
         Calculator calculator = new Calculator((long) 3, (long) 4);
         System.out.println(calculator.Calculate("addition"));
