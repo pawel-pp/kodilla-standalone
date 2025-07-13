@@ -1,4 +1,4 @@
-package com.kodilla.zadanie61;
+package com.kodilla.zadanie46;
 
 class Calculator {
     long FirstNumber;
