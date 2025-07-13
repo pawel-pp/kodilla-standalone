@@ -1,1 +1,1 @@
-rootProject.name = "kodilla-standalone"
+rootProject.name = "kodilla46-standalone"

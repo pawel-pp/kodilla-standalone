@@ -1,6 +1,5 @@
-package com.kodilla;
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+package com.kodilla46;
+
 public class Main {
     public static void main(String[] args) {
         Calculator calculator = new Calculator((long) 3, (long) 4);

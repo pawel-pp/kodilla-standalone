@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "com.kodilla"
+group = "com.kodilla46"
 version = "1.0-SNAPSHOT"
 
 repositories {
