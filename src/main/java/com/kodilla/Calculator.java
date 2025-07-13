@@ -1,4 +1,4 @@
-package com.kodilla46;
+package com.kodilla;
 
 public class Calculator {
 long FirstNumber;
